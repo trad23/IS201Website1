@@ -1,0 +1,21 @@
+.header{
+    margin: 0% auto;
+    height: 100px;
+    background-color:aqua;
+}
+
+.common{
+    text-align: center;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    margin: auto;
+    height: 25px auto;
+    background-color: azure;
+}
+
+h1{
+    font-size: larger;
+}
